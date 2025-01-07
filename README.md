@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahimahmed420
 - 👀 I’m interested in Gaming..
-- 🌱 I’m currently learning Web Designing..
+- 🌱 I’m currently learning Web Developing..
 - 💞️ I’m looking to collaborate on Nothing..
 - 📫 How to reach me ...Don't reach me...me Introvert..
 
