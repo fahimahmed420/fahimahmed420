@@ -66,14 +66,6 @@
 
 ---
 
-## 📺 YouTube / Blogs (Coming Soon)
-
-Stay tuned for:
-- 🎬 YouTube videos on frontend tips & project walkthroughs  
-- ✍️ Blog posts about full-stack workflows, deployment, and more
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -85,5 +77,8 @@ Stay tuned for:
   </a>
   <a href="https://grand-concha-28f8d1.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Open-22D3EE?style=flat&logo=netlify" />
+  </a>
+  <a href="https://steamcommunity.com/id/fahim420/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-Profile-171a21?style=flat&logo=steam&logoColor=white" />
   </a>
 </p>
