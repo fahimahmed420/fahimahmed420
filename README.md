@@ -90,7 +90,7 @@
 </p>
 
 
-## 🎮 I'm a Gamer Too
+<p align="center">## 🎮 I'm a Gamer Too</p>
 
 <div align="left" style="margin-top: 40px; margin-bottom: 40px;">
 
