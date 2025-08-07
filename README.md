@@ -1,10 +1,10 @@
 <!-- GitHub Profile README for Fahim Ahmed -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/o2KLYPem407CM/giphy.gif" width="220px" alt="Dev GIF">
+  <img src="https://media.giphy.com/media/o2KLYPem407CM/giphy.gif" width="220px" alt="Dev GIF" />
 </p>
 
-<h1 align="center" style="color:#4F46E5;">
+<h1 align="center">
   Hi there 👋, I'm <span style="color:#22D3EE">Fahim Ahmed</span>
 </h1>
 
@@ -12,7 +12,8 @@
   💻 Full Stack Developer | MERN Stack | Passionate about building elegant web apps
 </h3>
 
-<p align="center" style="margin-bottom: 20px;">
+<!-- TOP LINKS -->
+<p align="center">
   <a href="https://grand-concha-28f8d1.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
@@ -75,6 +76,8 @@
 - System Design Fundamentals  
 - GitHub Actions for CI/CD
 
+---
+
 ## 📊 GitHub Contributions
 
 <p align="center">
@@ -89,39 +92,38 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimxyz&layout=compact&theme=tokyonight" />
 </p>
 
+---
 
-<p>
-  <img align="center" style="margin-top: 40px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=false&vCenter=true&width=600&lines= I'm a Gamer Too" />
+## 🎮 I'm a Gamer Too!
+
+<p align="right">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=false&vCenter=true&width=600&lines=I'm+a+Gamer+Too!;Gaming+is+my+second+life.;FPS,+RPG,+Open+World+--+I'm+in!" />
 </p>
 
-<div align="left" style="margin-top: 40px; margin-bottom: 40px;">
-
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=false&vCenter=true&width=600&lines=When+I'm+not+coding...+I'm+grinding!;Exploring+realms,+fighting+bosses,+winning+matches!" />
-</p>
-
+<div align="right">
 
 ### 🎯 Favorite Games:  
-**Far Cry 3** 
-**Call of Duty: Modern Warfare II** 
-**Assassin's Creed Black Flag** 
-**Sleeping Dogs** 
-**Dying Light** 
-**Destiny 2** 
+- 🧨 **Far Cry 3**  
+- 🎖 **Call of Duty: Modern Warfare II**  
+- 🏴‍☠️ **Assassin's Creed Black Flag**  
+- 🥋 **Sleeping Dogs**  
+- 🧟‍♂️ **Dying Light**  
+- 🌌 **Destiny 2**  
 
 ### 🎮 Games I Play:
-
-- 🕵️ **GTA V** 
-- 🤠 **Red Dead Redemption 2**
-- 🔫 **CS 2**
-- 🎯 **Tom Clancy's Rainbow Six Siege**
-- 🔫 **Apex Legend** 
-- 🦇 **Stardew Valley**
-- 🎯 **Valorant** <img src="https://img.icons8.com/color/24/000000/valorant.png" />
-- 🏹 **Assassin’s Creed Series**
-- 🕵️ **Far cry Series**
-- 🔫 **COD Series**
-- 🔫 **BF Series**
+- 🕵️ **GTA V**  
+- 🤠 **Red Dead Redemption 2**  
+- 🔫 **CS 2**  
+- 🛡 **Tom Clancy's Rainbow Six Siege**  
+- 🚀 **Apex Legends**  
+- 🌾 **Stardew Valley**  
+- 🎯 **Valorant** ![Valorant Icon](https://img.icons8.com/color/24/000000/valorant.png)  
+- 🏹 **Assassin’s Creed Series**  
+- 🔫 **COD Series**  
+- 💣 **Battlefield Series**  
+- 🔥 **Far Cry Series**  
 
 </div>
+
+
+
