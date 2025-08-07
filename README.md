@@ -111,3 +111,12 @@
 💣 Battlefield Series  
 
 </div>
+<br/>
+<br/>
+## 🕹 Steam Game Stats
+
+<p align="center">
+  <img src="https://steamstats.cn/api/steam?id=YOUR_STEAM64_ID&lang=en&theme=dark" alt="Steam Stats" />
+</p>
+
+> 🔗 View full profile on [Steam](https://steamcommunity.com/profiles/76561198963846463)
