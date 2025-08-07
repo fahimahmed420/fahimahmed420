@@ -90,7 +90,7 @@
 </p>
 
 
-<p align="center">## 🎮 I'm a Gamer Too</p>
+<p align="center" style="margin-top: 40px;">🎮 I'm a Gamer Too</p>
 
 <div align="left" style="margin-top: 40px; margin-bottom: 40px;">
 
@@ -100,20 +100,27 @@
 </p>
 
 
-### 🎯 Favorite Game:  
-**The Witcher 3: Wild Hunt** 🐺⚔️
+### 🎯 Favorite Games:  
+**Far Cry 3** 
+**Call of Duty: Modern Warfare II** 
+**Assassin's Creed Black Flag** 
+**Sleeping Dogs** 
+**Dying Light** 
+**Destiny 2** 
 
 ### 🎮 Games I Play:
 
 - 🕵️ **GTA V** <img src="https://img.icons8.com/color/24/000000/grand-theft-auto-v.png" />
 - 🤠 **Red Dead Redemption 2**
-- ⚔️ **Elden Ring**
-- 🧱 **Minecraft** <img src="https://img.icons8.com/color/24/000000/minecraft-logo.png" />
-- 🕶️ **Cyberpunk 2077**
-- 🔫 **Call of Duty: Warzone** <img src="https://img.icons8.com/color/24/000000/call-of-duty.png" />
-- 🦇 **Hollow Knight**
+- 🔫 **CS 2**
+- 🔫 **Tom Clancy's Rainbow Six Siege**
+- 🔫 **Apex Legend** <img src="https://img.icons8.com/color/24/000000/call-of-duty.png" />
+- 🦇 **Stardew Valley**
 - 🎯 **Valorant** <img src="https://img.icons8.com/color/24/000000/valorant.png" />
 - 🏹 **Assassin’s Creed Series**
+- 🕵️ **Far cry Series**
+- 🔫 **COD Series**
+- 🔫 **BF Series**
 
 </div>
 
