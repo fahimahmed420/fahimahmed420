@@ -16,8 +16,11 @@
   <a href="https://grand-concha-28f8d1.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/-fahim-ahmed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://steamcommunity.com/id/yoursteamid/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-Profile-171a21?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 </p>
 
@@ -66,19 +69,25 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🎮 I'm a Gamer Too
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/-fahim-ahmed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Fahim-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-  </a>
-  <a href="https://grand-concha-28f8d1.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Open-22D3EE?style=flat&logo=netlify" />
-  </a>
-  <a href="https://steamcommunity.com/id/fahim420/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-Profile-171a21?style=flat&logo=steam&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=When+I+am+not+coding%2C+I'm+gaming!;Steam+is+my+second+home+%F0%9F%92%BB;Exploring+open+worlds...+and+debugging+them!" alt="Gamer Typing SVG" />
 </p>
+
+### 🎯 Favorite Game:
+**The Witcher 3: Wild Hunt** 🐺⚔️
+
+### 🕹️ Other Games I Enjoy:
+- Grand Theft Auto V
+- Red Dead Redemption 2
+- Elden Ring
+- Assassin’s Creed Series
+- Valorant
+- Call of Duty: Warzone
+- Hollow Knight
+- Minecraft
+- Cyberpunk 2077
+
+---
+
