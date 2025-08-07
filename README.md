@@ -110,13 +110,13 @@
 
 ### 🎮 Games I Play:
 
-- 🕵️ **GTA V** <img src="https://img.icons8.com/color/24/000000/grand-theft-auto-v.png" />
+- 🕵️ **GTA V** <img src="https://img.icons8.com/color/24/000000/grand-theft-auto-v.png](https://icons8.com/icon/c7wDY2TRDZHz/gta-5" />
 - 🤠 **Red Dead Redemption 2**
 - 🔫 **CS 2**
-- 🔫 **Tom Clancy's Rainbow Six Siege**
+- 🎯 **Tom Clancy's Rainbow Six Siege**
 - 🔫 **Apex Legend** <img src="https://img.icons8.com/color/24/000000/call-of-duty.png" />
 - 🦇 **Stardew Valley**
-- 🎯 **Valorant** <img src="https://img.icons8.com/color/24/000000/valorant.png" />
+- <img src="https://img.icons8.com/color/24/000000/valorant.png" /> **Valorant** 
 - 🏹 **Assassin’s Creed Series**
 - 🕵️ **Far cry Series**
 - 🔫 **COD Series**
