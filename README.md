@@ -75,29 +75,20 @@
 - System Design Fundamentals  
 - GitHub Actions for CI/CD
 
-## 💼 Skills & Tools
+## 📊 GitHub Contributions
 
-### Frontend  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-
-
-<!-- Animated progress bars -->
-<p>
-  <b>HTML</b><br>
-  <progress value="95" max="100"></progress><br>
-  <b>CSS</b><br>
-  <progress value="90" max="100"></progress><br>
-  <b>JavaScript</b><br>
-  <progress value="85" max="100"></progress><br>
-  <b>React</b><br>
-  <progress value="80" max="100"></progress><br>
-  <b>Node.js</b><br>
-  <progress value="75" max="100"></progress>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimxyz&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahimxyz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimxyz&layout=compact&theme=tokyonight" />
+</p>
+
 
 ## 🎮 I'm a Gamer Too
 
@@ -107,6 +98,7 @@
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=false&vCenter=true&width=600&lines=When+I'm+not+coding...+I'm+grinding!;Exploring+realms,+fighting+bosses,+winning+matches!" />
 </p>
+
 
 ### 🎯 Favorite Game:  
 **The Witcher 3: Wild Hunt** 🐺⚔️
