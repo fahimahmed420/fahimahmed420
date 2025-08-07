@@ -1,11 +1,11 @@
-<!-- Stylish GitHub Profile README for Fahim Ahmed -->
+<!-- GitHub Profile README for Fahim Ahmed -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/o2KLYPem407CM/giphy.gif" width="220px" alt="Dev GIF">
 </p>
 
-<h1 align="center">
-  Hi there 👋, I'm <span style="color:#4ade80">Fahim Ahmed</span>
+<h1 align="center" style="color:#4F46E5;">
+  Hi there 👋, I'm <span style="color:#22D3EE">Fahim Ahmed</span>
 </h1>
 
 <h3 align="center">
@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://grand-concha-28f8d1.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=netlify" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/-fahim-ahmed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -38,12 +38,39 @@
 
 ---
 
-## 📈 GitHub Insights
+## 🏗️ Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahim-ahmed&theme=react&show_icons=true&hide_border=false&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-ahmed&theme=react&hide_border=false" width="49%" />
-</div>
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| **EduManage** | A web platform for managing institutions, tutors, and students. MERN stack with admin panel. | [Visit](https://edumanage.example.com) |
+| **Savar Blood Bank** | Blood donation website for local community with donor list, search, and admin control. | [Visit](https://bloodbank.example.com) |
+| **Room Booking App** | Hotel room booking system with availability check, date picker, pricing filter. | [Visit](https://hotelbook.example.com) |
+
+> 🧪 View all on my [Portfolio](https://grand-concha-28f8d1.netlify.app/#projects)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Completed SCIC Web Dev Course from Programming Hero  
+- 💼 Built 10+ full-stack projects  
+- 💬 Recognized for clean UI & modular code in peer reviews
+
+---
+
+## 🎓 Certifications
+
+- ✅ **SCIC Web Development Course** – Programming Hero  
+- ✅ Firebase & Authentication – Google Dev Track  
+- ✅ React Performance Patterns – Udemy
+
+---
+
+## 📺 YouTube / Blogs (Coming Soon)
+
+Stay tuned for:
+- 🎬 YouTube videos on frontend tips & project walkthroughs  
+- ✍️ Blog posts about full-stack workflows, deployment, and more
 
 ---
 
@@ -57,20 +84,6 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
   <a href="https://grand-concha-28f8d1.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Open-green?style=flat&logo=netlify" />
+    <img src="https://img.shields.io/badge/Website-Open-22D3EE?style=flat&logo=netlify" />
   </a>
-</p>
-
----
-
-## 🎯 Fun Facts
-
-- 🧠 I love turning ideas into real-world applications  
-- ⚡ My secret weapon is clean UI + clean code  
-- 🌱 Always learning new things and frameworks
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
