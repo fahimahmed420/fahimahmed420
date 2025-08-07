@@ -91,7 +91,7 @@
 
 
 <p>
-  <img align="center" style="margin-top: 40px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=false&vCenter=true&width=600&lines=🎮 I'm a Gamer Too" />
+  <img align="center" style="margin-top: 40px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=false&vCenter=true&width=600&lines= I'm a Gamer Too" />
 </p>
 
 <div align="left" style="margin-top: 40px; margin-bottom: 40px;">
