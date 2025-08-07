@@ -74,7 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fahimxyz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center" style="margin-bottom: 20px;">
+<p align="center" style="margin-bottom: 60px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimxyz&layout=compact&theme=tokyonight" />
 </p>
 
