@@ -42,8 +42,9 @@
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
 | **EduManage** | A web platform for managing institutions, tutors, and students. MERN stack with admin panel. | [Visit](https://edumanage.example.com) |
-| **Savar Blood Bank** | Blood donation website for local community with donor list, search, and admin control. | [Visit](https://bloodbank.example.com) |
-| **Room Booking App** | Hotel room booking system with availability check, date picker, pricing filter. | [Visit](https://hotelbook.example.com) |
+| **HotelEr** | Hotel room booking system with availability check, date picker, pricing filter. | [Visit](https://assignment-11-59a34.web.app/) |
+| **FTM** | Freelancers market place where clients can post jobs and users can take them,apart from many other things. | [Visit](https://beautiful-tartufo-17dc98.netlify.app/) |
+
 
 > 🧪 View all on my [Portfolio](https://grand-concha-28f8d1.netlify.app/#projects)
 
@@ -111,12 +112,3 @@
 💣 Battlefield Series  
 
 </div>
-<br/>
-<br/>
-## 🕹 Steam Game Stats
-
-<p align="center">
-  <img src="https://steamstats.cn/api/steam?id=YOUR_STEAM64_ID&lang=en&theme=dark" alt="Steam Stats" />
-</p>
-
-> 🔗 View full profile on [Steam](https://steamcommunity.com/profiles/76561198963846463)
