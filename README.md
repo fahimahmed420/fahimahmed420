@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimahmed420&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimahmed420&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
