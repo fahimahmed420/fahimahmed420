@@ -44,7 +44,7 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| **EduManage** | A web platform for managing institutions, tutors, and students. MERN stack with admin panel. | [Visit]([https://edumanage.example.com](https://edumanage-d7a0d.web.app/)) |
+| **EduManage** | A web platform for managing institutions, tutors, and students. MERN stack with admin panel. | [Visit](https://edumanage-d7a0d.web.app/) |
 | **HotelEr** | Hotel room booking system with availability check, date picker, pricing filter. | [Visit](https://assignment-11-59a34.web.app/) |
 | **FTM** | Freelancers market place where clients can post jobs and users can take them,apart from many other things. | [Visit](https://beautiful-tartufo-17dc98.netlify.app/) |
 
