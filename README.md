@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center" style="margin-bottom: 20px;">
-  <a href="https://grand-concha-28f8d1.netlify.app/" target="_blank">
+  <a href="https://fahim-ahmed.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://wa.me/8801774433063" target="_blank">
@@ -46,7 +46,7 @@
 |--------|-------------|-----------|
 | **EduManage** | A web platform for managing institutions, tutors, and students. MERN stack with admin panel. | [Visit](https://edumanage-d7a0d.web.app/) |
 | **HotelEr** | Hotel room booking system with availability check, date picker, pricing filter. | [Visit](https://assignment-11-59a34.web.app/) |
-| **FTM** | Freelancers market place where clients can post jobs and users can take them,apart from many other things. | [Visit](https://beautiful-tartufo-17dc98.netlify.app/) |
+| **WorkSphereX** | Freelancers market place where clients can post jobs and users can take them,apart from many other things. | [Visit](https://beautiful-tartufo-17dc98.netlify.app/) |
 
 > 🧪 View all on my [Portfolio](https://grand-concha-28f8d1.netlify.app/#projects)
 
