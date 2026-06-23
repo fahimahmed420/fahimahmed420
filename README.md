@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Fahim%20Ahmed&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=56&descSize=17&descColor=a8b4d8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Fahim%20Ahmed&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=56&descSize=17&descColor=a8b4d8" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7C8CF8&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Building+the+web%2C+one+component+at+a+time+%F0%9F%9A%80;MERN+Stack+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7C8CF8&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+production-ready+web+apps+%F0%9F%9A%80;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Prisma;Always+learning%2C+always+shipping+%F0%9F%93%A6)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,13 @@
 
 ```javascript
 const fahim = {
-  location: "Savar, Dhaka, Bangladesh 🏠",
-  role: "Full Stack Developer (MERN Stack)",
-  status: "Student — always learning, always building",
-  currentlyBuilding: ["EduManage", "HotelEr", "WorkSphereX"],
-  learning: ["TypeScript", "Next.js SSR/SSG", "Stripe", "System Design", "GitHub Actions"],
-  askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript", "Web Development"],
-  funFact: "I turn ☕ coffee into 💻 code every day",
+  location    : "Savar, Dhaka, Bangladesh 🏠",
+  role        : "Full Stack Developer",
+  status      : "Currently building Aura Goli & new e-com projects 🔨",
+  stack       : ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "React", "Node.js"],
+  learning    : ["Prisma ORM", "PostgreSQL", "System Design", "GitHub Actions", "Stripe"],
+  askMeAbout  : ["React", "Next.js", "MongoDB", "REST APIs", "E-commerce"],
+  funFact     : "I turn ☕ coffee into 💻 production-ready apps",
 };
 ```
 
@@ -31,6 +31,7 @@ const fahim = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -40,6 +41,8 @@ const fahim = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **🧰 Tools & Platforms**
@@ -52,7 +55,8 @@ const fahim = {
 
 **🌱 Currently Learning**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -62,11 +66,37 @@ const fahim = {
 
 <div align="center">
 
-| 🌟 Project | 📝 Description | 🔨 Stack |
-|:---:|:---|:---:|
-| 🎓 **[EduManage](https://github.com/fahimahmed420/EduManage-Client)** | A web platform for managing institutions, tutors & students with role-based dashboards | React · Node.js · MongoDB |
-| 🏨 **[HotelEr](https://github.com/fahimahmed420/HotelEr-client)** | Hotel booking system with availability checking, pricing filters & smooth UX | React · Express · MongoDB |
-| 💼 **[WorkSphereX](https://github.com/fahimahmed420/FTM-client)** | Freelance marketplace connecting clients and freelancers seamlessly | MERN · Firebase |
+### 🛍️ Aura Goli — Premium Fashion E-Commerce *(In Progress)*
+[![Aura Goli](https://img.shields.io/badge/🔗_Live_Demo-aura--goli.vercel.app-7C8CF8?style=for-the-badge)](https://aura-goli.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Aura--Goli-181717?style=for-the-badge&logo=github)](https://github.com/fahimahmed420/Aura-Goli)
+
+> Production-ready fashion e-commerce for the Bangladeshi premium market — full storefront + admin console in one codebase.
+
+`Next.js 16` `TypeScript` `PostgreSQL` `Prisma` `JWT + Google OAuth` `SSLCommerz` `Tailwind CSS v4` `Vercel`
+
+**Features:** Product catalog · Shopping cart with coupons · Order tracking · Loyalty points · Flash sales · Admin analytics dashboard · WhatsApp support
+
+---
+
+### 💊 MediStore — Online Pharmacy Platform
+[![MediStore](https://img.shields.io/badge/🔗_Live_Demo-b6--a4.vercel.app-7C8CF8?style=for-the-badge)](https://b6-a4.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-B6A4-181717?style=for-the-badge&logo=github)](https://github.com/fahimahmed420/B6A4)
+
+> Online pharmacy with multi-role system — customers, sellers, and admins all in one platform.
+
+`Next.js 15` `TypeScript` `Tailwind CSS` `Zustand` `Axios` `Lucide React`
+
+**Features:** Medicine browsing & search · Cart & checkout · Order tracking · Seller dashboard · Admin analytics · Review system
+
+---
+
+### 🛒 FFHC — E-Commerce Platform
+[![FFHC](https://img.shields.io/badge/🔗_Live_Demo-ffhc--ecom.vercel.app-7C8CF8?style=for-the-badge)](https://ffhc-ecom.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-ffhc--ecom-181717?style=for-the-badge&logo=github)](https://github.com/fahimahmed420/ffhc-ecom)
+
+> A clean, scalable e-commerce storefront built with Next.js and deployed on Vercel.
+
+`Next.js` `JavaScript` `Tailwind CSS` `Vercel`
 
 </div>
 
@@ -100,7 +130,7 @@ const fahim = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://fahim-ahmed.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-fahim--ahmed.netlify.app-FF5722?style=for-the-badge)](https://fahim-ahmed.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-fahim-ahmed)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/fahimahmed420)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahimahmed420)
@@ -109,7 +139,7 @@ const fahim = {
 
 <div align="center">
 
-### 💬 *"The best way to learn is to build."* — Fahim Ahmed
+### 💬 *"The best way to learn is to build."*
 
 <br/>
 
@@ -120,7 +150,5 @@ const fahim = {
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
 </div>
