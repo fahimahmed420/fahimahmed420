@@ -1,154 +1,191 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=3&section=header" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1b4b,50:1a1a6e,100:0d0d3b&height=220&section=header&text=FAHIM%20AHMED&fontSize=65&fontColor=00D4FF&animation=blinking&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=65&descSize=16&descColor=8BACD9&stroke=00D4FF&strokeWidth=2" width="100%"/>
+
+</div>
 
 <div align="center">
-<br/>
 
-```
-███████╗ █████╗ ██╗  ██╗██╗███╗   ███╗     █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗
-██╔════╝██╔══██╗██║  ██║██║████╗ ████║    ██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗
-█████╗  ███████║███████║██║██╔████╔██║    ███████║███████║██╔████╔██║█████╗  ██║  ██║
-██╔══╝  ██╔══██║██╔══██║██║██║╚██╔╝██║    ██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
-██║     ██║  ██║██║  ██║██║██║ ╚═╝ ██║    ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+Full+Stack+Developer+%7C+Savar%2C+Dhaka+%F0%9F%87%A7%F0%9F%87%A9;%3E+Building+production-ready+web+apps;%3E+Next.js+%2B+TypeScript+%2B+PostgreSQL+%2B+Prisma;%3E+Currently+shipping+Aura+Goli+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=🚀+Building+production-ready+e-commerce+apps;⚡+Next.js+•+TypeScript+•+PostgreSQL+•+Prisma;🤖+Shipped+a+bilingual+AI+chatbot+in+Bangla+%2B+English;🌍+Turning+ideas+into+real+products+from+Dhaka)](https://git.io/typing-svg)
 
 <br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0d1b4b?style=flat-square&logoColor=00D4FF)](https://fahim-ahmed.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1b4b?style=flat-square&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/-fahim-ahmed)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1b4b?style=flat-square&logo=facebook&logoColor=00D4FF)](https://facebook.com/fahimahmed420)
+![Profile Views](https://komarev.com/ghpvc/?username=fahimahmed420&color=00D4FF&style=flat-square&label=VIEWS)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=2&section=header" width="100%"/>
+## ✦ About Me
 
-<br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimahmed420&layout=compact&hide_border=true&bg_color=0d0d2b&title_color=00D4FF&text_color=8BACD9&langs_count=6" width="300"/>
 
-**`// WHO AM I`**
+```yaml
+name:       Fahim Ahmed
+location:   Savar, Dhaka, Bangladesh
+timezone:   UTC +06:00
 
-```bash
-$ whoami
-  fahim ahmed — full stack developer, student, builder
+status:
+  - 🔨 Building → Aura Goli (live e-commerce)
+  - 🛒 Building → New e-commerce projects
+  - 📚 Learning → Prisma · PostgreSQL · Stripe
+                   System Design · GitHub Actions
 
-$ cat about.txt
-  📍 Savar, Dhaka, Bangladesh (UTC +06:00)
-  🔨 Currently building → Aura Goli + new e-commerce projects
-  📚 Currently learning → Prisma · PostgreSQL · Stripe · System Design
-  🤖 Built a bilingual AI chatbot (Bangla + English) with LLaMA 3.3 70B
-  💡 Passionate about turning ideas into real, usable products
+highlights:
+  - Built a bilingual AI chatbot (Bangla + English)
+    powered by LLaMA 3.3 70B via Groq API
+  - Shipped SSLCommerz payment integration
+    for Bangladeshi market
+  - Full-stack from UI design → DB → deployment
 ```
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=2&section=header" width="100%"/>
+<br clear="right"/>
 
-**`// TECH STACK`**
+---
+
+## ✦ 3D Contribution Graph
 
 <div align="center">
-<br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,firebase,git,github,vscode,figma,vercel&theme=dark&perline=9)](https://skillicons.dev)
+<img src="https://github-profile-3d-contrib.vercel.app/api/guestbook?username=fahimahmed420" width="100%" alt="3D Contribution Graph"/>
 
-<br/>
+> ⚙️ **To enable your personal 3D graph:** Add [this GitHub Action](https://github.com/yoshi389111/github-profile-3d-contrib) to your profile repo and replace the URL above with:
+> `https://raw.githubusercontent.com/fahimahmed420/fahimahmed420/main/profile-3d-contrib/profile-night-rainbow.svg`
 
-| Layer | Technologies |
-|:---:|:---|
-| **Frontend** | HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Tailwind CSS |
-| **Backend** | Node.js · Express.js |
-| **Database** | MongoDB · PostgreSQL · Prisma ORM · Firebase |
-| **Auth & Pay** | JWT · Google OAuth · SSLCommerz · Stripe *(learning)* |
-| **AI & Bots** | Groq API · LLaMA 3.3 70B · Meta Graph API |
-| **Tooling** | Git · GitHub · Vercel · Figma · VS Code |
+</div>
+
+---
+
+## ✦ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,js,tailwind,nodejs,express,postgres,mongodb,prisma,firebase,vercel,git,github,figma,vscode&theme=dark&perline=8" />
 
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=2&section=header" width="100%"/>
-
-**`// PROJECTS`**
-
-<br/>
-
-> **01 — AURA GOLI** &nbsp;`[IN PROGRESS]` &nbsp; [![Live](https://img.shields.io/badge/LIVE-00FF9C?style=flat-square&logoColor=black)](https://aura-goli.vercel.app) [![Repo](https://img.shields.io/badge/REPO-ffffff?style=flat-square&logo=github&logoColor=black)](https://github.com/fahimahmed420/Aura-Goli)
->
-> Premium fashion e-commerce for the Bangladeshi market. Full storefront + admin console — product catalog, coupon system, flash sales, order tracking, loyalty points, SSLCommerz payments, Google OAuth and a complete analytics dashboard.
->
-> `Next.js 16` &nbsp; `TypeScript` &nbsp; `PostgreSQL` &nbsp; `Prisma` &nbsp; `JWT` &nbsp; `Google OAuth` &nbsp; `SSLCommerz` &nbsp; `Tailwind v4` &nbsp; `Vercel`
-
-<br/>
-
-> **02 — FAMILY FASHION HUB CHINA** &nbsp; [![Live](https://img.shields.io/badge/LIVE-00FF9C?style=flat-square&logoColor=black)](https://family-fashion-hub-china.vercel.app) [![Repo](https://img.shields.io/badge/REPO-ffffff?style=flat-square&logo=github&logoColor=black)](https://github.com/fahimahmed420/ffhc-ecom)
->
-> Clean, scalable e-commerce storefront built with Next.js — fast, modern, and deployed on Vercel.
->
-> `Next.js` &nbsp; `JavaScript` &nbsp; `Tailwind CSS` &nbsp; `Vercel`
-
-<br/>
-
-> **03 — MEDISTORE** &nbsp; [![Live](https://img.shields.io/badge/LIVE-00FF9C?style=flat-square&logoColor=black)](https://b6-a4.vercel.app) [![Repo](https://img.shields.io/badge/REPO-ffffff?style=flat-square&logo=github&logoColor=black)](https://github.com/fahimahmed420/B6A4)
->
-> Online pharmacy platform with three roles — customers browse & order medicines, sellers manage inventory, admins oversee the platform. Full review system, order tracking, and analytics.
->
-> `Next.js 15` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `Zustand` &nbsp; `Axios`
-
-<br/>
-
-> **04 — AURA GOLI AI CHATBOT** &nbsp; [![Repo](https://img.shields.io/badge/REPO-ffffff?style=flat-square&logo=github&logoColor=black)](https://github.com/fahimahmed420/AI-Chat-Bot)
->
-> Facebook Messenger & WhatsApp bot for Aura Goli customer service. Auto-detects language and replies in **Bangla or English** — handles product queries, orders, payments, delivery and returns.
->
-> `Node.js` &nbsp; `Express.js` &nbsp; `Groq API` &nbsp; `LLaMA 3.3 70B` &nbsp; `Meta Graph API`
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=2&section=header" width="100%"/>
-
-**`// STATS`**
 
 <div align="center">
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=fahimahmed420&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&ring_color=00FF9C" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimahmed420&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF9C&text_color=ffffff" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimahmed420&theme=dark&hide_border=true&background=0a0a0a&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=ffffff&dates=888888&stroke=00FF9C" width="500"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahimahmed420&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=00FF9C&line=00FF9C&point=ffffff" width="100%"/>
+| | Skill | Level |
+|---|---|---|
+| 🎨 | HTML · CSS · JavaScript · TypeScript | ████████████ Expert |
+| ⚛️ | React · Next.js · Tailwind CSS | ███████████░ Advanced |
+| 🔧 | Node.js · Express.js | ██████████░░ Advanced |
+| 🗄️ | MongoDB · PostgreSQL · Prisma | ████████░░░░ Growing |
+| 🤖 | Groq API · LLaMA 3.3 70B · Meta Graph API | ███████░░░░░ Exploring |
+| 💳 | SSLCommerz · Stripe *(learning)* | ██████░░░░░░ Learning |
 
 </div>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=2&section=header" width="100%"/>
+---
 
-**`// CONNECT`**
+## ✦ Featured Projects
 
 <div align="center">
-<br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-0a0a0a?style=for-the-badge&logoColor=00FF9C)](https://fahim-ahmed.netlify.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://linkedin.com/in/-fahim-ahmed)
-&nbsp;
-[![Facebook](https://img.shields.io/badge/FACEBOOK-0a0a0a?style=for-the-badge&logo=facebook&logoColor=00FF9C)](https://facebook.com/fahimahmed420)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/fahimahmed420)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🛍️ Aura Goli `[IN PROGRESS]`
+[![Live](https://img.shields.io/badge/LIVE-00D4FF?style=flat-square&logoColor=0d0d2b)](https://aura-goli.vercel.app)
+[![Repo](https://img.shields.io/badge/REPO-1a1a6e?style=flat-square&logo=github&logoColor=00D4FF)](https://github.com/fahimahmed420/Aura-Goli)
 
-![Profile Views](https://komarev.com/ghpvc/?username=fahimahmed420&color=00FF9C&style=flat-square&label=PROFILE+VIEWS)
+Premium fashion e-commerce for the Bangladeshi market. Full storefront + admin console — SSLCommerz payments, loyalty points, flash sales & analytics.
 
-<br/>
+`Next.js 16` `TypeScript` `PostgreSQL` `Prisma` `JWT` `Google OAuth` `SSLCommerz`
 
-```
-> "The best way to learn is to build." — Fahim Ahmed
-```
+</td>
+<td width="50%" valign="top">
 
-<br/>
+### 🛒 Family Fashion Hub China
+[![Live](https://img.shields.io/badge/LIVE-00D4FF?style=flat-square&logoColor=0d0d2b)](https://family-fashion-hub-china.vercel.app)
+[![Repo](https://img.shields.io/badge/REPO-1a1a6e?style=flat-square&logo=github&logoColor=00D4FF)](https://github.com/fahimahmed420/ffhc-ecom)
+
+Clean, scalable e-commerce storefront — fast, modern and live on Vercel.
+
+`Next.js` `JavaScript` `Tailwind CSS` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💊 MediStore
+[![Live](https://img.shields.io/badge/LIVE-00D4FF?style=flat-square&logoColor=0d0d2b)](https://b6-a4.vercel.app)
+[![Repo](https://img.shields.io/badge/REPO-1a1a6e?style=flat-square&logo=github&logoColor=00D4FF)](https://github.com/fahimahmed420/B6A4)
+
+Online pharmacy with 3 roles — customers, sellers & admins. Browse, order, track, review.
+
+`Next.js 15` `TypeScript` `Tailwind CSS` `Zustand` `Axios`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Aura Goli AI Chatbot
+[![Repo](https://img.shields.io/badge/REPO-1a1a6e?style=flat-square&logo=github&logoColor=00D4FF)](https://github.com/fahimahmed420/AI-Chat-Bot)
+
+Messenger & WhatsApp bot — auto-detects language, replies in **Bangla or English**. Handles orders, products, payments & delivery.
+
+`Node.js` `Express` `Groq API` `LLaMA 3.3 70B` `Meta Graph API`
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF9C&height=2&section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=3&section=footer" width="100%"/>
+---
+
+## ✦ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fahimahmed420&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d2b&title_color=00D4FF&icon_color=00D4FF&text_color=8BACD9&ring_color=00D4FF" height="165"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimahmed420&hide_border=true&background=0d0d2b&ring=00D4FF&fire=FFD700&currStreakLabel=00D4FF&sideLabels=8BACD9&dates=8BACD9&stroke=00D4FF" height="165"/>
+
+</div>
+
+---
+
+## ✦ Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fahimahmed420&theme=alduin&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+</div>
+
+---
+
+## ✦ Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahimahmed420/fahimahmed420/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahimahmed420/fahimahmed420/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fahimahmed420/fahimahmed420/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+> ⚙️ **To enable the snake animation:** Add [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates the SVG on a schedule.
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best way to learn is to build."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d3b,50:1a1a6e,100:0d1b4b&height=120&section=footer&fontSize=14&fontColor=00D4FF&animation=blinking&text=Thanks%20for%20visiting!%20Let's%20build%20something%20together.&descAlignY=65&stroke=00D4FF&strokeWidth=1" width="100%"/>
+
+</div>
