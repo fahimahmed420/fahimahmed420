@@ -78,6 +78,16 @@ const fahim = {
 
 ---
 
+### 🛒 Family Fashion Hub China — E-Commerce Platform
+[![FFHC](https://img.shields.io/badge/🔗_Live_Demo-family--fashion--hub--china.vercel.app-7C8CF8?style=for-the-badge)](https://family-fashion-hub-china.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-ffhc--ecom-181717?style=for-the-badge&logo=github)](https://github.com/fahimahmed420/ffhc-ecom)
+
+> A clean, scalable e-commerce storefront built with Next.js and deployed on Vercel.
+
+`Next.js` `JavaScript` `Tailwind CSS` `Vercel`
+
+---
+
 ### 💊 MediStore — Online Pharmacy Platform
 [![MediStore](https://img.shields.io/badge/🔗_Live_Demo-b6--a4.vercel.app-7C8CF8?style=for-the-badge)](https://b6-a4.vercel.app)
 [![Repo](https://img.shields.io/badge/GitHub-B6A4-181717?style=for-the-badge&logo=github)](https://github.com/fahimahmed420/B6A4)
@@ -90,13 +100,14 @@ const fahim = {
 
 ---
 
-### 🛒 FFHC — E-Commerce Platform
-[![FFHC](https://img.shields.io/badge/🔗_Live_Demo-ffhc--ecom.vercel.app-7C8CF8?style=for-the-badge)](https://ffhc-ecom.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-ffhc--ecom-181717?style=for-the-badge&logo=github)](https://github.com/fahimahmed420/ffhc-ecom)
+### 🤖 AI Chat Bot — Aura Goli Customer Service Bot
+[![Repo](https://img.shields.io/badge/GitHub-AI--Chat--Bot-181717?style=for-the-badge&logo=github)](https://github.com/fahimahmed420/AI-Chat-Bot)
 
-> A clean, scalable e-commerce storefront built with Next.js and deployed on Vercel.
+> Intelligent Facebook Messenger & WhatsApp chatbot that auto-detects customer language and replies in Bangla or English — powered by LLaMA 3.3 70B via Groq.
 
-`Next.js` `JavaScript` `Tailwind CSS` `Vercel`
+`Node.js` `Express.js` `Groq API (LLaMA 3.3 70B)` `Meta Graph API` `Axios`
+
+**Features:** Bilingual Bangla/English replies · Product & ordering FAQs · Payment & delivery info · Messenger + WhatsApp webhook integration
 
 </div>
 
