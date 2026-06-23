@@ -50,7 +50,7 @@ highlights:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahmed420&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahmed420&theme=github_light" width="100%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahimahmed420&theme=github_dark" height="160"/>
 &nbsp;
