@@ -1,116 +1,126 @@
-<!-- GitHub Profile README for Fahim Ahmed -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/o2KLYPem407CM/giphy.gif" width="220px" alt="Dev GIF">
-</p>
-
-<h1 align="center" style="color:#4F46E5;">
-  Hi there 👋, I'm <span style="color:#22D3EE">Fahim Ahmed</span>
-</h1>
-
-<h3 align="center">
-  💻 Full Stack Developer | MERN Stack | Passionate about building elegant web apps
-</h3>
-
-<p align="center" style="margin-bottom: 20px;">
-  <a href="https://fahim-ahmed.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://wa.me/8801774433063" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/-fahim-ahmed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://steamcommunity.com/id/yoursteamid/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-Profile-171a21?style=for-the-badge&logo=steam&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=React+%2F+Node+%2F+MongoDB+%2F+Tailwind;Clean+Code+%2B+Pixel+Perfect+Design;Let%E2%80%99s+Build+Something+Amazing!" alt="Typing SVG" />
-</p>
-
-## 🚀 Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,firebase,git,github,vscode,figma,vercel" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Fahim%20Ahmed&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=56&descSize=17&descColor=a8b4d8" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7C8CF8&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Building+the+web%2C+one+component+at+a+time+%F0%9F%9A%80;MERN+Stack+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
 </div>
 
-## 🏗️ Featured Projects
+---
 
-| Project | Description | Live Demo |
-|--------|-------------|-----------|
-| **EduManage** | A web platform for managing institutions, tutors, and students. MERN stack with admin panel. | [Visit](https://edumanage-d7a0d.web.app/) |
-| **HotelEr** | Hotel room booking system with availability check, date picker, pricing filter. | [Visit](https://assignment-11-59a34.web.app/) |
-| **WorkSphereX** | Freelancers market place where clients can post jobs and users can take them,apart from many other things. | [Visit](https://beautiful-tartufo-17dc98.netlify.app/) |
+## 🧑‍💻 About Me
 
-> 🧪 View all on my [Portfolio](https://grand-concha-28f8d1.netlify.app/#projects)
+```javascript
+const fahim = {
+  location: "Savar, Dhaka, Bangladesh 🏠",
+  role: "Full Stack Developer (MERN Stack)",
+  status: "Student — always learning, always building",
+  currentlyBuilding: ["EduManage", "HotelEr", "WorkSphereX"],
+  learning: ["TypeScript", "Next.js SSR/SSG", "Stripe", "System Design", "GitHub Actions"],
+  askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript", "Web Development"],
+  funFact: "I turn ☕ coffee into 💻 code every day",
+};
+```
 
-## 🧠 What I Know & Believe
+---
 
-> ✅ Simplicity is power  
-> ✅ Every great product starts with clean, thoughtful code  
-> ✅ Collaboration is key — feedback sharpens creativity  
-> ✅ I write code people can read  
-> ✅ I design systems that scale
+## 🛠️ Tech Stack
 
-## 📚 Currently Learning
+**⚡ Frontend**
 
-- TypeScript for safer JS  
-- Next.js for SSR/SSG apps  
-- Stripe for payment integrations  
-- Advanced MongoDB aggregations  
-- System Design Fundamentals  
-- GitHub Actions for CI/CD
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 📊 GitHub Contributions
+**🔧 Backend & Database**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimahmed420&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimahmed420&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+**🧰 Tools & Platforms**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimahmed420&layout=compact&theme=tokyonight" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**🌱 Currently Learning**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🌟 Project | 📝 Description | 🔨 Stack |
+|:---:|:---|:---:|
+| 🎓 **[EduManage](https://github.com/fahimahmed420/EduManage-Client)** | A web platform for managing institutions, tutors & students with role-based dashboards | React · Node.js · MongoDB |
+| 🏨 **[HotelEr](https://github.com/fahimahmed420/HotelEr-client)** | Hotel booking system with availability checking, pricing filters & smooth UX | React · Express · MongoDB |
+| 💼 **[WorkSphereX](https://github.com/fahimahmed420/FTM-client)** | Freelance marketplace connecting clients and freelancers seamlessly | MERN · Firebase |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fahimahmed420&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7c8cf8&icon_color=7c8cf8&text_color=c9d1d9" height="170" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimahmed420&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=c9d1d9" height="170" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimahmed420&theme=tokyonight&hide_border=true&background=0D1117&ring=7C8CF8&fire=FF6B6B&currStreakLabel=7C8CF8" alt="GitHub Streak" width="500"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahimahmed420&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c8cf8&line=7c8cf8&point=ff6b6b" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://fahim-ahmed.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-fahim-ahmed)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/fahimahmed420)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahimahmed420)
+
+</div>
+
+<div align="center">
+
+### 💬 *"The best way to learn is to build."* — Fahim Ahmed
+
 <br/>
-<br/>
-<br/>
 
-## 🎮 I'm a Gamer Too
+![Profile Views](https://komarev.com/ghpvc/?username=fahimahmed420&color=7c8cf8&style=for-the-badge&label=PROFILE+VIEWS)
 
-<p align="right" style="margin-top: 40px; margin-bottom: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=false&vCenter=true&width=600&lines=When+I'm+not+coding...+I'm+grinding!;Exploring+realms,+fighting+bosses,+winning+matches!" />
-</p>
+</div>
 
-<div align="right">
+---
 
-### 🔥 Favorite Games  
-🎯 Far Cry 3  
-🛡️ Call of Duty: Modern Warfare II  
-⚓ Assassin's Creed Black Flag  
-👊 Sleeping Dogs  
-🧟 Dying Light  
-🚀 Destiny 2  
+<div align="center">
 
-### 🎲 Games I Play  
-🚗 GTA V  
-🐎 Red Dead Redemption 2  
-🔫 CS 2  
-🛡 Tom Clancy's Rainbow Six Siege  
-🧨 Apex Legends  
-🌾 Stardew Valley  
-🎯 Valorant <img src="https://img.icons8.com/color/24/000000/valorant.png" />  
-🗡 Assassin’s Creed Series  
-🔥 Far Cry Series  
-🔫 Call of Duty Series  
-💣 Battlefield Series  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
