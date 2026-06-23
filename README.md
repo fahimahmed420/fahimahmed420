@@ -46,14 +46,17 @@ highlights:
 
 ---
 
-## ✦ 3D Contribution Graph
+## ✦ Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-3d-contrib.vercel.app/api/guestbook?username=fahimahmed420" width="100%" alt="3D Contribution Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimahmed420&theme=github_dark" width="100%"/>
 
-> ⚙️ **To enable your personal 3D graph:** Add [this GitHub Action](https://github.com/yoshi389111/github-profile-3d-contrib) to your profile repo and replace the URL above with:
-> `https://raw.githubusercontent.com/fahimahmed420/fahimahmed420/main/profile-3d-contrib/profile-night-rainbow.svg`
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahimahmed420&theme=github_dark" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahimahmed420&theme=github_dark" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fahimahmed420&theme=github_dark&utcOffset=6" height="160"/>
 
 </div>
 
@@ -164,19 +167,44 @@ Messenger & WhatsApp bot — auto-detects language, replies in **Bangla or Engli
 
 ---
 
-## ✦ Contribution Snake
+## ✦ Random Dev Quote
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahimahmed420/fahimahmed420/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahimahmed420/fahimahmed420/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fahimahmed420/fahimahmed420/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-> ⚙️ **To enable the snake animation:** Add [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates the SVG on a schedule.
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20learn%20is%20to%20build&author=Fahim%20Ahmed" width="100%"/>
 
 </div>
+
+---
+
+## ✦ What I'm Building Now
+
+```
+AURA GOLI — Premium Fashion E-Commerce                          [IN PROGRESS]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ✅ Product catalog + variants
+ ✅ Shopping cart + coupon system
+ ✅ SSLCommerz payment integration
+ ✅ JWT + Google OAuth
+ ✅ Admin analytics dashboard
+ 🔄 Flash sales + loyalty points (in progress)
+ 🔄 Email flows with Resend
+ ⏳ Final QA + production launch
+
+NEW E-COMMERCE PROJECTS                                         [PLANNING]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ⏳ Stripe payment integration
+ ⏳ PostgreSQL + Prisma ORM
+ ⏳ Server-side rendering with Next.js
+
+LEARNING ROADMAP                                                [ONGOING]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 🔄 Prisma ORM          ████████░░  80%
+ 🔄 PostgreSQL          ███████░░░  70%
+ ⏳ Stripe Payments     █████░░░░░  50%
+ ⏳ System Design       ████░░░░░░  40%
+ ⏳ GitHub Actions      ███░░░░░░░  30%
+```
 
 ---
 
