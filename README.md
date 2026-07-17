@@ -25,7 +25,8 @@
 
 ### `v2.4.0` — *current*
 - ✨ **Shipped:** [Family Fashion Hub China](https://ffhchina.com/) — import-to-retail platform for a paying client. Storefront, admin dashboard, automated courier booking. Handling live orders daily.
-- 🔧 **In progress:** [Aura Goli](https://github.com/fahimahmed420/Aura-Goli) — premium fashion e-commerce with SSLCommerz payments.
+- ✨ **Shipped:** [Aura Goli](https://github.com/fahimahmed420/Aura-Goli) — premium fashion e-commerce with SSLCommerz payments, fully live.
+- ✨ **Shipped:** [Savar Blood Donors](https://github.com/fahimahmed420/blood-donation) — free, non-profit blood donor network for Savar, Dhaka. Bangla-first, Google OAuth, SMS alerts, donor profiles with photos, testimonials, admin dashboard. Live on Vercel.
 - 📈 **Improved:** system design instincts, TypeScript strictness tolerance.
 
 ### `v2.2.0`
@@ -47,8 +48,9 @@
 
 ```jsonc
 {
-  "frontend":  ["next.js", "react", "typescript", "tailwind", "zustand"],
-  "backend":   ["node.js", "express", "prisma", "postgresql", "mongodb", "firebase"],
+  "frontend":  ["next.js", "react", "typescript", "tailwind", "zustand", "next-intl"],
+  "backend":   ["node.js", "express", "prisma", "postgresql", "mongodb", "firebase", "supabase", "vercel-cron"],
+  "services":  ["supabase-auth", "cloudinary", "sms.net.bd", "ssltcommerz", "groq"],
   "ai":        ["groq", "llama-3.3", "prompt-engineering"],
   "devtools":  ["git", "vercel", "figma", "vs-code"],
   "peerDependencies": {
