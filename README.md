@@ -48,7 +48,7 @@
 
 ```jsonc
 {
-  "frontend":  ["next.js", "react", "typescript", "tailwind", "zustand", "next-intl"],
+  "frontend":  ["next.js", "react", "typescript", "tailwind", "next-intl"],
   "backend":   ["node.js", "express", "prisma", "postgresql", "mongodb", "firebase", "supabase", "vercel-cron"],
   "services":  ["supabase-auth", "cloudinary", "sms.net.bd", "ssltcommerz", "groq"],
   "ai":        ["groq", "llama-3.3", "prompt-engineering"],
