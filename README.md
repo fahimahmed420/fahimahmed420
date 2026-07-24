@@ -100,7 +100,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats-sigma-black.vercel.app/api?username=fahimahmed420&show_icons=true&hide_border=true&theme=github_dark)
+![Stats](https://raw.githubusercontent.com/fahimahmed420/fahimahmed420/main/stats.svg)
 
 *The best way to learn is to build — release notes prove it.*
 
