@@ -28,6 +28,7 @@
 - ✨ **Shipped:** [Aura Goli](https://github.com/fahimahmed420/Aura-Goli) — premium fashion e-commerce with SSLCommerz payments, fully live.
 - ✨ **Shipped:** [Savar Blood Donors](https://github.com/fahimahmed420/blood-donation) — free, non-profit blood donor network for Savar, Dhaka. Bangla-first, Google OAuth, SMS alerts, donor profiles with photos, testimonials, admin dashboard. Live on Vercel.
 - 📈 **Improved:** system design instincts, TypeScript strictness tolerance.
+- 🐛 **Fixed:** broken GitHub stats badge (shared demo instance was rate-limited).
 
 ### `v2.2.0`
 - ✨ **Shipped:** [AI Chat Bot](https://github.com/fahimahmed420/AI-Chat-Bot) — Messenger support bot that auto-detects Bangla/English. LLaMA 3.3 70B via Groq behind Meta webhooks.
@@ -41,6 +42,19 @@
 ### `v1.0.0`
 - 🎉 **Initial release:** BSc in Computer Science & Engineering, City University.
 - 📚 First `Hello, World`. Immediate scope creep ever since.
+
+---
+
+## 🎨 SIDE QUESTS
+
+> Not every commit needs a business case. Sometimes I just build something because the idea won't leave me alone.
+
+| Project | What it is |
+|---|---|
+| [Itachi Uchiha Tribute](https://itachi--uchiha.vercel.app/) | Narrative fan site retelling Itachi's arc across 11 chapters + epilogue — graphic-novel style, kanji typography, mood-driven visuals. |
+| [Ember & Oak](https://ember-oak-mocha.vercel.app/) | Artisanal candle-shop concept with a cursor-tracking flame interaction and scroll-driven storytelling. |
+
+*(No client, no deadline, no admin dashboard I couldn't resist adding. Wait — actually, no dashboard this time. Growth.)*
 
 ---
 
@@ -86,7 +100,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fahimahmed420&show_icons=true&hide_border=true&theme=github_dark)
+![Stats](https://github-readme-stats-sigma-black.vercel.app/api?username=fahimahmed420&show_icons=true&hide_border=true&theme=github_dark)
 
 *The best way to learn is to build — release notes prove it.*
 
