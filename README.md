@@ -9,6 +9,8 @@
  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
 ```
 
+![My GitHub Stats](https://github-stats-card-silk.vercel.app/api/card)
+
 ### Full-Stack Developer — Dhaka, Bangladesh
 
 *Currently in production. Actively maintained. Open to new integrations.*
