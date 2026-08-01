@@ -13,7 +13,7 @@
 
 *Currently in production. Actively maintained. Open to new integrations.*
 
-[Portfolio](https://fahim-cloud.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/-fahim-ahmed/) · [Email](asifahmed55445@gmail.com)
+[Portfolio](https://fahim-cloud.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/-fahim-ahmed/) · [Email](fahim.ahmed.portfolio@gmail.com)
 
 </div>
 
